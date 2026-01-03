@@ -1,6 +1,17 @@
 # awesome-ai4metagenomics-best-pratice
 Best practices for ai4metagenomics analaysis
 
+## Assembly
+
+## Mapping
+
+## Binning
+
+## Annotation
+
+
+
+
 ## 🔒 License
 * See [LICENSE](LICENSE) for details.
   
