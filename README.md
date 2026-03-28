@@ -2,14 +2,14 @@
 Best practices for ai4metagenomics analaysis
 
 ## Assembly
-
+[]()
 ## Mapping
 
 ## Binning
 
 ## Annotation
 
-prokk: ahttps://github.com/tseemann/prokka
+prokka: [https://github.com/tseemann/prokka](https://github.com/tseemann/prokka)
 
 
 ## 🔒 License
