@@ -9,7 +9,7 @@ Best practices for ai4metagenomics analaysis
 
 ## Annotation
 
-
+prokk: ahttps://github.com/tseemann/prokka
 
 
 ## 🔒 License
