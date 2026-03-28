@@ -20,12 +20,11 @@ prokka: [https://github.com/tseemann/prokka](https://github.com/tseemann/prokka)
 
 ```bibtex
 @misc{PKU-EMBL_AI4Metagenomics,
-  author       = {{PKU-EMBL}},
+  author       = {{Zhaorui(Elijah) Jiang}},
   title        = {Awesome AI4Metagenomics Best Practice},
-  year         = {2024},
+  year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/PKU-EMBL/awesome-ai4metagenomics-best-practice}},
-  note         = {Accessed: 2024-05-20}
 }
 ```
