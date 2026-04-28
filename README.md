@@ -11,6 +11,9 @@ Best practices for ai4metagenomics analaysis
 
 prokka: [https://github.com/tseemann/prokka](https://github.com/tseemann/prokka)
 
+## Alignment
+
+
 
 ## 🔒 License
 * See [LICENSE](LICENSE) for details.
